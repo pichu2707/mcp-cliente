@@ -82,3 +82,5 @@ Aquí tenemos un uv run .\client.py para arrancar pero necesita un segundo atrib
 ## Proyecto de cliente
 
 Este proyecto viene junto con el creado de MCP también de conexión rápida sobre [el tiempo de EEUU](https://github.com/pichu2707/mcp-weather) que he dejado el enlace, es decir, sería aconsejable empezar si esto está siendo un comienzo para ti en la introducción de los MCP que vayas primero a ese repositorio y lo descargues.
+
+Para cualquier duda puedes escribirme en [mi correo de javilazaro](mailto:hola@javilazaro.es)
